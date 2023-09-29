@@ -18,7 +18,7 @@
   "license": "ISC",
   "dependencies": {
     "concurrently": "^8.2.1",
-    "graphql-upload": "^16.0.2"
+    "graphql-upload": "^16.0.2",
     "@babel/plugin-proposal-private-property-in-object": "^7.21.11",
     "nodemon": "^2.0.3"
   },
